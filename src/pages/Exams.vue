@@ -2,8 +2,8 @@
   <Layout>
      <Section container="md" class="blog-posts">
       <div class="mb-x2 container-sm text-center">
-        <h1>CpanelPlugins Blog</h1>
-        <p style="opacity: .8">..bringing a personal touch to cPanel since 2021.</p>
+        <h1>Cpanel Exam Answers</h1>
+        <p style="opacity: .8">Answers to cPanel Certification exams</p>
       </div>
       <PostCard v-for="edge in $page.posts.edges" :key="edge.node.id" :post="edge.node"/>
 
@@ -18,7 +18,7 @@
 
 <page-query>
 query {
-  posts: allBlogPost {
+  posts: allExamsPost {
     edges {
       node {
         id
@@ -41,13 +41,12 @@ query {
 
 <script>
 import PostCard from '@/components/PostCard.vue'
-
 export default {
   components: {
     PostCard
   },
   metaInfo: {
-    title: 'Blog'
+    title: 'Exams'
   }
 }
 </script>
