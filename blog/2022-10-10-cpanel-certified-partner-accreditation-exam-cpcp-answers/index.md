@@ -1421,7 +1421,7 @@ The main purpose of the application Git is?
 
 Which of the following is one of the three types of articles you'll find within each of the parent categories of the knowledgebase?
 
-- Guidelines and Recommendations
+- Questions and Answers
 
 ---
 
@@ -1451,7 +1451,7 @@ As a cPanel Support customer, we recommend that you start your visit at support.
 
 What label is shown on the "big orange button" that directs you towards a list of categories for browsing the knowledge base articles?
 
-- Information Center
+- Support Topics
 
 ---
 
