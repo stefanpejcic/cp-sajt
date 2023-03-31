@@ -5,7 +5,6 @@
       <Card title="cPanel plugins">
         <h4>Recent</h4>
 		<ul class="bullet-list mb">
-     <li>📧 <g-link to="/plugins/smtp2go/">SMTP2GO</g-link></li> 
      <li>💾 <g-link to="/plugins/acronis-backup/">Acronis Backup</g-link></li>
      <li>🔗 <g-link to="/plugins/remote-file-download/">Remote file download</g-link></li>
      <li>🌐 <g-link to="/plugins/site-pad/">SitePad Website Builder</g-link></li>
