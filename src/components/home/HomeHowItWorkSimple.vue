@@ -5,11 +5,11 @@
       <Card title="cPanel plugins">
         <h4>Recent</h4>
 		<ul class="bullet-list mb">
+     <li>📧 <g-link to="/plugins/smtp2go/">SMTP2GO</g-link></li> 
      <li>💾 <g-link to="/plugins/acronis-backup/">Acronis Backup</g-link></li>
      <li>🔗 <g-link to="/plugins/remote-file-download/">Remote file download</g-link></li>
      <li>🌐 <g-link to="/plugins/site-pad/">SitePad Website Builder</g-link></li>
      <li>📜 <g-link to="/plugins/login-log-cpanel-plugin">Login Log cPanel plugin</g-link></li>
-     <li>💰 <g-link to="/plugins/whm-seller/">WHM Seller</g-link></li>  
     </ul>
 		
         <template slot="outer">
@@ -27,7 +27,7 @@
         </div>
 
         <p class="works__powered-by">
-          Compatible with v.<strong>108</strong>
+          Compatible with v.<strong>110</strong>
         </p>
 
         <template slot="outer">
